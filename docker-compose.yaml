@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "aniketware25/node-app-demo:latest"
+    image: "aniketware25/node-app:latest"
     ports:
       - "8000:8000"
